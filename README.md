@@ -52,6 +52,6 @@ $ npm run start:prod
 $ npm run test
 ```
 
-## Author 👨‍💻
+## Author
 
 [Philip Ogunwobi](https://paogunwobi.vercel.app/)
