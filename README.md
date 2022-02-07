@@ -14,7 +14,7 @@ UI was developed with [Angular](https://angular.io) and was generated with [Angu
 ## Installation
 
 ```bash
-$ git clone 
+$ git clone https://github.com/paogunwobi/scalio-blog.git
 ```
 Navigate to the root directory
 ## Frontend (UI)
