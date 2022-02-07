@@ -2,7 +2,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "./scalio-blog-fe/",
     "outDir": "./scalio-blog-fe/dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
