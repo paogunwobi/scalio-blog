@@ -1,5 +1,5 @@
 
-[APP URL]: https://scalio-blog.vercel.app
+[APP URL]: https://scalio-blog-view.vercel.app
 [API Documentation Url]: https://scalio-blog.herokuapp.com/api/
 
 
